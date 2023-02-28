@@ -1,0 +1,35 @@
+{
+  "name": "space-night",
+  "displayName": "Space Night",
+  "description": "Space Night theme!",
+  "version": "1.0.0",
+  "publisher": "WilfriedPrombo",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wilprom/space-night.git"
+  },
+  "keywords": [
+    "theme",
+    "dark",
+    "dark-theme",
+    "space",
+    "night",
+    "space night theme",
+    "space night dark theme"
+  ],
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Space Night",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Space Night-color-theme.json"
+      }
+    ]
+  }
+}
