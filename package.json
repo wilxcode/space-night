@@ -4,6 +4,7 @@
   "description": "Space Night theme!",
   "version": "1.0.0",
   "publisher": "WilfriedPrombo",
+  "icon": "space-150px.jpg",
   "repository": {
     "type": "git",
     "url": "https://github.com/wilprom/space-night.git"
