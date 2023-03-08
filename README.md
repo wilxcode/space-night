@@ -11,4 +11,4 @@ I will maintain it as I have time, thanks for understanding 😉 .
 ## ScreenShot
 
 ### HTML, CSS, JS
-![HTML, CSS, JS](Screen%20Shot.png)
+![HTML, CSS, JS](screenshot-vscode.png)
