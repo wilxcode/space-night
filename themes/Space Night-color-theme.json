@@ -44,7 +44,7 @@
     "editor.foldBackground": "#1111174a",
     "editorLink.activeForeground": "#acb0d0",
 
-    "editor.selectionBackground": "#515c7e94",
+    "editor.selectionBackground": "#283f8580",
     "editor.inactiveSelectionBackground": "#515c7e25",
 
     "editor.findMatchBackground": "#3d59a166",
@@ -58,8 +58,8 @@
     "editor.selectionHighlightBackground": "#515c7e44",
 
     "editorCursor.foreground": "#C0CAF5",
-    "editorIndentGuide.background": "#1e202e",
-    "editorIndentGuide.activeBackground": "#363b54",
+    "editorIndentGuide.background1": "#1e202e",
+    "editorIndentGuide.activeBackground1": "#363b54",
     "editorLineNumber.foreground": "#363b54",
     "editorLineNumber.activeForeground": "#737aa2",
     "editor.lineHighlightBackground": "#1e202e",
@@ -342,7 +342,7 @@
 		{
 			"scope": "comment",
 			"settings": {
-				"foreground": "#444B6A"
+				"foreground": "#444B6A",
 			}
 		},
 		{
